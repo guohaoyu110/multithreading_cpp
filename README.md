@@ -1,5 +1,8 @@
 # Multi Threading Tutorial in C++
 
+Read through this page: https://hackernoon.com/learn-c-multi-threading-in-5-minutes-8b881c92941f
+
+
 > Quick demonstration of multi threading in modern C++
 
 Features:
